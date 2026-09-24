@@ -1,0 +1,1 @@
+This folder contains training datasets for Tier 1 diseases.
